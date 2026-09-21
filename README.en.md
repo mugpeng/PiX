@@ -100,6 +100,7 @@ Thanks to everyone who has contributed to PiX:
 [![mugpeng](https://avatars.githubusercontent.com/u/52995448?v=4&s=80)](https://github.com/mugpeng)
 [![kindredzhang](https://avatars.githubusercontent.com/u/120791467?v=4&s=80)](https://github.com/kindredzhang)
 [![jinjianghao](https://avatars.githubusercontent.com/u/147498917?v=4&s=80)](https://github.com/jinjianghao)
+[![github-actions[bot]](https://avatars.githubusercontent.com/in/15368?v=4&s=80)](https://github.com/github-actions[bot])
 <!-- CONTRIBUTORS:END -->
 
 Contributions are welcome: open an [issue](https://github.com/huang-sh/PiX/issues) for bugs and ideas, or send a pull request.

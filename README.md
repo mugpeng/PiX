@@ -100,6 +100,7 @@ npm run dev
 [![mugpeng](https://avatars.githubusercontent.com/u/52995448?v=4&s=80)](https://github.com/mugpeng)
 [![kindredzhang](https://avatars.githubusercontent.com/u/120791467?v=4&s=80)](https://github.com/kindredzhang)
 [![jinjianghao](https://avatars.githubusercontent.com/u/147498917?v=4&s=80)](https://github.com/jinjianghao)
+[![github-actions[bot]](https://avatars.githubusercontent.com/in/15368?v=4&s=80)](https://github.com/github-actions[bot])
 <!-- CONTRIBUTORS:END -->
 
 欢迎参与：问题反馈和功能建议请开 [issue](https://github.com/huang-sh/PiX/issues)；修 bug 或加功能请提交 Pull Request。
