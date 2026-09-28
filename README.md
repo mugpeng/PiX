@@ -99,8 +99,8 @@ npm run dev
 [![huang-sh](https://avatars.githubusercontent.com/u/24741118?v=4&s=80)](https://github.com/huang-sh)
 [![mugpeng](https://avatars.githubusercontent.com/u/52995448?v=4&s=80)](https://github.com/mugpeng)
 [![kindredzhang](https://avatars.githubusercontent.com/u/120791467?v=4&s=80)](https://github.com/kindredzhang)
-[![jinjianghao](https://avatars.githubusercontent.com/u/147498917?v=4&s=80)](https://github.com/jinjianghao)
 [![github-actions[bot]](https://avatars.githubusercontent.com/in/15368?v=4&s=80)](https://github.com/github-actions[bot])
+[![jinjianghao](https://avatars.githubusercontent.com/u/147498917?v=4&s=80)](https://github.com/jinjianghao)
 <!-- CONTRIBUTORS:END -->
 
 欢迎参与：问题反馈和功能建议请开 [issue](https://github.com/huang-sh/PiX/issues)；修 bug 或加功能请提交 Pull Request。
