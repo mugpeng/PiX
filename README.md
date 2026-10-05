@@ -98,8 +98,8 @@ npm run dev
 <!-- CONTRIBUTORS:START -->
 [![huang-sh](https://avatars.githubusercontent.com/u/24741118?v=4&s=80)](https://github.com/huang-sh)
 [![mugpeng](https://avatars.githubusercontent.com/u/52995448?v=4&s=80)](https://github.com/mugpeng)
-[![kindredzhang](https://avatars.githubusercontent.com/u/120791467?v=4&s=80)](https://github.com/kindredzhang)
 [![github-actions[bot]](https://avatars.githubusercontent.com/in/15368?v=4&s=80)](https://github.com/github-actions[bot])
+[![kindredzhang](https://avatars.githubusercontent.com/u/120791467?v=4&s=80)](https://github.com/kindredzhang)
 [![jinjianghao](https://avatars.githubusercontent.com/u/147498917?v=4&s=80)](https://github.com/jinjianghao)
 <!-- CONTRIBUTORS:END -->
 
